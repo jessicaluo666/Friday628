@@ -3,3 +3,4 @@ def string():
 
 def string2():
     print("luo")
+
